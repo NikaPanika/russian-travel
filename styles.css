@@ -1,0 +1,77 @@
+@media (min-width: 768px) {
+    .header__logo{
+        min-height: 52px;
+        min-width: 176px;
+    }
+    .header__lang-link{
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .header{
+        margin: 28px 24px 48px;
+    }
+    .lead__title{
+        font-size: 96px;
+        line-height: 100px;
+        max-width: 720px;
+    }
+    .lead__subtitle{
+        font-size: 30px;
+        line-height: 36px;
+        max-width: 640px;
+    }
+    .lead__caption{
+        margin-left: 24px;
+    }
+    .intro__title{
+        margin: 88px 24px 40px;
+        font-size: 54px;
+        line-height: 58px;
+    }
+    .intro__text{
+        margin: 0px 24px 34px;
+    }
+    .intro__list{
+        margin: 0px 24px 88px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .lead__caption{
+        margin-left: 48px;
+    }
+    .lead__image{
+        margin: 0 48px;
+        width: calc(100% - 48px*2);
+    }
+    .intro__title{
+        margin: 92px 48px 40px;
+    }
+    .intro__text{
+        margin: 0px 48px 34px;
+        max-width: 690px;
+    }
+    .intro__list{
+        margin: 0px 48px 92px;
+    }
+}
+
+@media (min-width: 1280px){
+    .lead__caption{
+        margin-left: 148px;
+    }
+    .lead__image{
+        margin: 0 148px;
+        width: calc(100% - 148px*2);
+    }
+    .intro__title{
+        margin: 92px 148px 40px;
+    }
+    .intro__text{
+        margin: 0px 148px 34px;
+    }
+    .intro__list{
+        margin: 0px 148px 92px;
+    }
+}
+
