@@ -1,0 +1,11 @@
+.cover{
+    background-image: url(../../images/background.png);
+    background-size: cover;
+    background-position: center center;
+    min-height: 200px;
+
+    margin-bottom: 64px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
