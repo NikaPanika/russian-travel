@@ -7,7 +7,6 @@
 
 
 # Russian-travel
-_________________________________________________________________________________________________________________________________________________________________________
 * This project is a page that contains information about the most beautiful places in Russia. The project is written in BEM. The pages have links to external resources.
 
 # Links
