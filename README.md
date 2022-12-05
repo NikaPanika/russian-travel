@@ -2,12 +2,21 @@
 
 ### Review
 * Russian-travel
+* Techniques and technologies
 * Links
+
 
 
 
 # Russian-travel
 * This project is a page that contains information about the most beautiful places in Russia. The project is written in BEM. The pages have links to external resources.
+
+# Techniques and technologies
+* Flexbox
+* Grid
+* Figma
+* [Typogrph](https://www.artlebedev.ru/typograf/)
+* Nested
 
 # Links
 * [Link to Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)

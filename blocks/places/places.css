@@ -1,6 +1,7 @@
 .places{
     display: grid;
     grid-template-columns: 1fr;
+    margin-bottom: 18px;
 }
 @media screen and (min-width: 768px) {
     .places{
@@ -9,11 +10,11 @@
 }
 @media screen and (min-width: 1024px) {
     .places{
-        margin: 0 48px 92px;
+        margin: 0 48px 85px;
     }
 }
 @media screen and (min-width: 1280px){
     .places{
-        margin: 0 148px 92px;
+        margin: 0 148px 85px;
     }
 }
