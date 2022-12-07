@@ -1,24 +1,15 @@
-.cover{
+.cover {
     margin-bottom: 64px;
-    background-image: url(../../images/background.png);
-    background-size: cover;
-    background-position: center center;
-    box-sizing: border-box;
 }
+
 @media screen and (min-width: 768px) {
-    .cover{
-        max-height: 480px;
+    .cover {
         margin-bottom: 88px;
     }
 }
-@media screen and (min-width: 1024px) {
-    .cover{
-        max-height: 640px;
-    }
-}
-@media screen and (min-width: 1280px){
-    .cover{
-        max-height: 740px;
+
+@media screen and (min-width: 1280px) {
+    .cover {
         margin: 0 48px 92px;
     }
 }
