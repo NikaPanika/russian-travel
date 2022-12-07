@@ -1,4 +1,5 @@
 .link-hyaloid:hover{
     opacity: 80%;
     transition: opacity 0.1s linear 0s;
+    cursor: pointer;
   }
